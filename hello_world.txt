@@ -1,0 +1,2 @@
+Hello world, this is my first time learning Git and Github.
+Today is Nov 5. 2025
